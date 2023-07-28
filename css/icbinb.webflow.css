@@ -659,9 +659,9 @@ a {
   grid-template-rows: auto auto;
   border: 1px none #000;
   border-radius: 2px;
-  background-color: #d3f3f2;
+  background-color: #999999;
   font-family: DMsans, Verdana, sans-serif;
-  line-height: 18px;
+  line-height: 30px;
   text-align: left;
 }
 
