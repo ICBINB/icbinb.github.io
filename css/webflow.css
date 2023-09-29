@@ -59,6 +59,15 @@ img {
   vertical-align: middle;
   display: inline-block;
 }
+#hp-right  {
+float: right;    
+ margin: 0 0 0 15px;
+}
+#hp-left  {
+float: left;    
+ margin: 0 15px 0 0;
+}
+
 html.w-mod-touch * {
   background-attachment: scroll !important;
 }
